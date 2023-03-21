@@ -9,7 +9,8 @@ import java.util.Collections;
 import java.util.Scanner;
 
 /**
- *
+ * Clase Prismas
+ *Calcula el area de un prisma
  * @author aridi
  */
 public class AreaPrisma {
